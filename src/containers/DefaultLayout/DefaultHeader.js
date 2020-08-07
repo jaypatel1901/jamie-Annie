@@ -3,10 +3,7 @@ import { Link, NavLink } from 'react-router-dom';
 import { Badge, UncontrolledDropdown, DropdownItem, DropdownMenu, DropdownToggle, Nav, NavItem } from 'reactstrap';
 import PropTypes from 'prop-types';
 
-import { AppAsideToggler, AppNavbarBrand, AppSidebarToggler } from '@coreui/react';
-import logo from '../../assets/img/brand/logo.svg'
-import sygnet from '../../assets/img/brand/sygnet.svg'
-import Swal from 'sweetalert2/dist/sweetalert2.js'
+
 import 'sweetalert2/src/sweetalert2.scss'
 import './style.css'
 import image from '../../assets/image/index'
