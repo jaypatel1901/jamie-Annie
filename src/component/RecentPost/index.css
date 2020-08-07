@@ -1,0 +1,24 @@
+
+.recent-card-img-top.img-fluid {
+    width: 72% !important;
+}
+.about_img.about-card-img-top img-fluid {
+    width: 100%;
+    height: 913px;
+}
+/* .about_img {
+    height: 469px;
+    display: flex;
+    align-items: center;
+} */
+.about_img {
+    height: 468px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+.about_img1 {
+    height: 487px;
+    width: 442px;
+    padding: 20px;
+}

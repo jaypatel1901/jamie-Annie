@@ -1,0 +1,11 @@
+.fashion_img {
+    width: 100%;
+}
+.card.content.fashion {
+    background-color: #fdfdfd;
+}
+.card-img-top {
+    width: 72% !important;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+}

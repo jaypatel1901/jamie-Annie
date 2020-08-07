@@ -1,0 +1,25 @@
+
+.content_img-img {
+    height: 50px;
+}
+.column {
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+  }
+  
+  /* Clearfix (clear floats) */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+  .content-style {
+    
+    padding: 110px;
+    background-color: #eee;
+}
+.blockquote {
+  margin-bottom: 4rem !important;
+  font-size: 1.09375rem;
+}

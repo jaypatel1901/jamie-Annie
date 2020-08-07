@@ -1,0 +1,48 @@
+@import  url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap'); 
+.body{
+    /* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&display=swap'); */
+font-family: 'Roboto', sans-serif;}
+.kitchen_img {
+    margin-inline-start: 111px;
+    padding: 35px;
+}
+.kitchen_img {
+    height: 400px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.col-img {
+    margin-bottom: 30px;
+    height: 160px;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #ccc;
+}
+.col-img1 {
+    width: 99%;
+    height: 91% !important;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+
+}
+.banner-img {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thought {
+    padding: 111px;
+    background: #eee;
+}
+.footer {
+    background-color: white;
+    padding: 20px;
+}
